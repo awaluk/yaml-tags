@@ -1,0 +1,15 @@
+{
+    "name": "awaluk/yaml-tags",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AWaluk\\YamlTags\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "symfony/yaml": "^5.3"
+    }
+}
